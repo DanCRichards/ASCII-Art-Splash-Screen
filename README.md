@@ -15,4 +15,4 @@ This tutorial is for unix based systems #Sorry Windows. Also if you need this tu
  4. Type `nano .bash_profile` (I prefer you use vim, but you probably can't exit it) 
  5. Use arrow keys to add at the bottom `python3 ascii.py`
  6. Exit nano by pressing `Ctrl + x` then `y` then `<Enter Key>`
- 7. Retart Terminal
+ 7. Restart Terminal
