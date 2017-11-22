@@ -18,4 +18,4 @@ This tutorial is for unix based systems #Sorry Windows. Also if you need this tu
  7. Restart Terminal
 
 
-[Vim Tutorial] (http://www.openvim.com)
+[Vim Tutorial](http://www.openvim.com)
