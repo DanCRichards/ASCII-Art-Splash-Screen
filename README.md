@@ -19,3 +19,7 @@ This tutorial is for unix based systems #Sorry Windows. Also if you need this tu
 
 
 [Vim Tutorial](http://www.openvim.com)
+
+
+
+Created by Dan Richards 2017. 
