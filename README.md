@@ -1,6 +1,9 @@
-ASCII Art Splash Screen
+#ASCII Art Splash Screen
 =======================
 Automatically presents ASCII art to you when you open terminal and changes "Randomly"
+
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
 -----
 
