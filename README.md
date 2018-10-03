@@ -1,12 +1,8 @@
 # ASCII Art Splash Screen
-=======================
 Automatically presents ASCII art to you when you open terminal and changes "Randomly"
 
-
------
-
 ## How to get this working
-===========================
+
 
 This tutorial is for unix based systems #Sorry Windows. Also if you need this tutorial you probably shouldn't be using terminal.
 
