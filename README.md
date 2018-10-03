@@ -1,13 +1,11 @@
-#ASCII Art Splash Screen
+# ASCII Art Splash Screen
 =======================
 Automatically presents ASCII art to you when you open terminal and changes "Randomly"
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 -----
 
-How to get this working
+## How to get this working
 ===========================
 
 This tutorial is for unix based systems #Sorry Windows. Also if you need this tutorial you probably shouldn't be using terminal.
@@ -19,6 +17,9 @@ This tutorial is for unix based systems #Sorry Windows. Also if you need this tu
  5. Use arrow keys to add at the bottom `python3 ascii.py`
  6. Exit nano by pressing `Ctrl + x` then `y` then `<Enter Key>`
  7. Restart Terminal
+ 
+ ## Support
+ This repo is not being supported anymore as all of the functionality desired has been implemented. 
 
 
 [Vim Tutorial](http://www.openvim.com)
