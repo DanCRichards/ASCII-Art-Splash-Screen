@@ -1,3 +1,4 @@
+![Example Photo](example.png)
 # ASCII Art Splash Screen
 Automatically presents ASCII art to you when you open terminal and changes "Randomly"
 
